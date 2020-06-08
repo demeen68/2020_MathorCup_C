@@ -8,6 +8,8 @@
 
 data文件夹:
 - store_data.xlsx : 为官方附录数据
+- distance_data.csv' : 为第一问的结果，即 3012*3012 的矩阵
+
 
 programe文件夹: 为解决问题的源代码
 
